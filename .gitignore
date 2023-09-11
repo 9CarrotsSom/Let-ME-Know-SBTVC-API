@@ -1,0 +1,6 @@
+.DS_Store
+vendor
+.idea
+socket.io/node_modules
+SlipBille
+image_item
